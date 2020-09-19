@@ -1,4 +1,4 @@
 Chapter1
 
-Git in Practice makes Git in Perfect!
-// TODO: [-Write book-] {+Is this funny?+}
+Git in Practice. Joke was not funny so it was removed.
+// TODO: [-Write book-]
