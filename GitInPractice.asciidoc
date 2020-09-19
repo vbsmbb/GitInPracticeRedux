@@ -1,1 +1,4 @@
-This is the first sentence in the book.
+Chapter1
+
+Git in Practice makes Git in Perfect!
+// TODO: [-Write book-] {+Is this funny?+}
