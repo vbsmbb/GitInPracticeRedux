@@ -1,14 +1,6 @@
 Chapter1
 
 Git in Practice. Joke was not funny so it was removed.
+<<<<<<< HEAD
 // TODO: [-Write book-]
 Added some more content to Chapter 1!
-
-
-
-
-
-
-Chapter 2
-
-Now we have a new chapter to write.
