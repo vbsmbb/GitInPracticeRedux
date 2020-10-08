@@ -1,1 +1,2 @@
 This is the preface which describes why I wrote the book and who helped along the way.
+I was helped by many people while writing this book.
