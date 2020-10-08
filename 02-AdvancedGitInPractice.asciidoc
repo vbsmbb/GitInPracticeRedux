@@ -3,3 +3,4 @@ Chapter 2
 Now we have a new chapter to write.
 =======
 // TODO: [-Write book-]
+Here is some more content that was dded to chapter 2.
