@@ -1,4 +1,0 @@
-Chapter1
-
-Git in Practice. Joke was not funny so it was removed.
-// TODO: [-Write book-]
